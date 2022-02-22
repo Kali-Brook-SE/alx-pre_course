@@ -1,1 +1,2 @@
-echo "text file here" > up_to_date
+git pull
+echo -e "text file here" > up_to_date
